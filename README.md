@@ -6,15 +6,13 @@ This purpose of this project was to add accessibility features to an existing we
 
 ## Installation
 
-This web application requires no installation.
+N/A
 
 ## Usage
 
 [Horiseon](https://hermanea.github.io/marketing-page-challenge1/)
 
-```md
-    ![alt text](C:\Users\evana\bootcamp\code\marketing-page-challenge1\Assets\images)
-    ```
+![alt text](C:\Users\evana\bootcamp\code\marketing-page-challenge1\Assets\images)
 
 ## Credits
 
@@ -24,4 +22,4 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 
-MIT License
+Please refer to the license in the repo.
