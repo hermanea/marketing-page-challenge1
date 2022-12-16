@@ -12,7 +12,7 @@ N/A
 
 [Horiseon](https://hermanea.github.io/marketing-page-challenge1/)
 
-![alt text](C:\Users\evana\bootcamp\code\marketing-page-challenge1\Assets\images)
+![alt text](C:\Users\evana\bootcamp\code\marketing-page-challenge1\Assets\images\screenshot.png)
 
 ## Credits
 
