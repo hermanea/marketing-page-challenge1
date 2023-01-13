@@ -11,6 +11,7 @@ N/A
 ## Usage
 
 You may access this web application by clicking on the following link: https://hermanea.github.io/marketing-page-challenge1/
+
 Below is a screenshot of completed web app:
 ![Alt text](./assets/images/marketing-page-challenge1.png "Screengrab")
 
