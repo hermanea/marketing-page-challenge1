@@ -2,7 +2,7 @@
 
 ## Description
 
-This purpose of this project was to add accessibility features to an existing web application. I learned a lot about HTML semantic elements and that I have so much more to learn!
+This purpose of this project was to refactor and existing web application by adding some accessibility features and consolidation some redundant code. I learned a lot about HTML semantic elements and applying CSS styling to HTML elements.
 
 ## Installation
 
@@ -10,9 +10,9 @@ N/A
 
 ## Usage
 
-[Horiseon](https://hermanea.github.io/marketing-page-challenge1/)
-
-![Screenshot]("C:\Users\evana\bootcamp\code\marketing-page-challenge1\Assets\images\screenshot.png")
+You may access this web application by clicking on the following link:
+Below is a screenshot of completed web app:
+![Alt text](./assets/images/marketing-page-challenge1.png "Screengrab")
 
 ## Credits
 
